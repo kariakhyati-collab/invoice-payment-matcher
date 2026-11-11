@@ -48,10 +48,10 @@ export function draftReminder(status: InvoiceStatus, opts: ReminderOptions): Rem
       : "";
 
   const facts = [
-    `  Invoice:      ${invoice.invoiceNo}`,
-    `  Issued:       ${formatDate(invoice.invoiceDate)}`,
-    `  Due:          ${due}`,
-    `  Outstanding:  ${amount}`,
+    `Invoice: ${invoice.invoiceNo}`,
+    `Issued: ${formatDate(invoice.invoiceDate)}`,
+    `Due: ${due}`,
+    `Outstanding: ${amount}`,
   ].join("\n");
 
   const copy: Record<ReminderTone, { subject: string; opening: string; ask: string }> = {

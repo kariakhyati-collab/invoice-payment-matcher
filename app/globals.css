@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  @apply bg-stone-50 text-stone-900 antialiased dark:bg-stone-950 dark:text-stone-100;
+}
+
+::selection {
+  @apply bg-emerald-600/20;
+}
+
+/* Tabular figures keep money columns aligned. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}

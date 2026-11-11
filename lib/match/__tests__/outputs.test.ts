@@ -98,7 +98,7 @@ describe("draftReminder", () => {
       companyName: "Example Supply Co.",
     });
     expect(d.body).toMatch(/^Hi Pinecrest Bakery LLC team,/);
-    expect(d.body).toContain("Outstanding:  $465.00");
+    expect(d.body).toContain("Outstanding: $465.00");
     expect(d.body).toContain("$150.00 already received");
     expect(d.body.trim().endsWith("Sam Lee\nExample Supply Co.")).toBe(true);
   });
