@@ -1,5 +1,7 @@
 # Reconcile — invoice → payment matcher
 
+**[Live demo →](https://khyati-invoice-matcher.vercel.app)**
+
 Cash application is the unglamorous job of working out which bank payment pays which invoice. Remittances cite the wrong number or none at all, customers pay three invoices in one transfer, banks shave off a wire fee, and someone always pays twice. **Reconcile** takes a CSV of open invoices and a CSV of bank receipts and runs a deterministic, explainable matching engine over them. It tags every match with the rule that fired and a confidence score, puts what it can't explain in an exceptions queue, ages what is still owed, and drafts the follow-up emails. It all runs in the browser: no server, no API key, no AI.
 
 ![Reconcile results view](docs/screenshot.png)
