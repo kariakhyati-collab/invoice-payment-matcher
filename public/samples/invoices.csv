@@ -1,0 +1,42 @@
+invoice_no,customer,invoice_date,due_date,amount
+INV-1001,"Halcyon Dental Group, P.C.",2026-06-15,2026-07-15,3980.00
+INV-1002,Quarry Lane Builders Inc.,2026-07-01,2026-07-31,18750.00
+INV-1003,Cobalt Ridge Outfitters,2026-07-06,2026-08-05,6400.00
+INV-1004,Fernhill Design Studio,2026-07-20,2026-08-19,2800.00
+INV-1005,Northwind Botanicals Inc.,2026-08-03,2026-09-02,4250.00
+INV-1006,Larkspur Coffee Roasters LLC,2026-08-04,2026-09-03,865.00
+INV-1007,Brightwater Logistics Co.,2026-08-10,2026-09-09,12500.00
+INV-1008,Pinecrest Bakery LLC,2026-08-12,2026-09-11,540.00
+INV-1009,Saltmarsh Analytics Ltd,2026-08-14,2026-09-13,3300.00
+INV-1010,Tidewell Marine Supply,2026-08-18,2026-09-17,4475.00
+INV-1011,Juniper & Vale Interiors,2026-08-20,2026-09-19,5600.00
+INV-1012,Sunline Cycles LLC,2026-08-24,2026-09-23,720.00
+INV-1013,Quarry Lane Builders Inc.,2026-08-25,2026-09-24,9200.00
+INV-1014,Cobalt Ridge Outfitters,2026-08-27,2026-09-26,3100.00
+INV-1015,Northwind Botanicals Inc.,2026-09-01,2026-10-01,1180.00
+INV-1016,Larkspur Coffee Roasters LLC,2026-09-02,2026-10-02,1240.00
+INV-1017,Cobalt Ridge Outfitters,2026-09-03,2026-10-03,2150.00
+INV-1018,"Halcyon Dental Group, P.C.",2026-09-04,2026-10-04,1450.00
+INV-1019,Brightwater Logistics Co.,2026-09-08,2026-10-08,7830.25
+INV-1020,Pinecrest Bakery LLC,2026-09-10,2026-10-10,615.00
+INV-1021,Fernhill Design Studio,2026-09-14,2026-10-14,1950.00
+INV-1022,Northwind Botanicals Inc.,2026-09-15,2026-10-15,2315.50
+INV-1023,Brightwater Logistics Co.,2026-09-20,2026-10-20,3410.00
+INV-1024,Saltmarsh Analytics Ltd,2026-09-22,2026-10-22,3300.00
+INV-1025,Tidewell Marine Supply,2026-09-25,2026-10-10,2860.00
+INV-1026,Juniper & Vale Interiors,2026-09-28,2026-09-28,2975.00
+INV-1027,Sunline Cycles LLC,2026-09-29,2026-10-29,1085.00
+INV-1028,Larkspur Coffee Roasters LLC,2026-10-01,2026-10-31,980.00
+INV-1029,Cobalt Ridge Outfitters,2026-10-02,2026-11-01,1725.00
+INV-1030,"Halcyon Dental Group, P.C.",2026-10-05,2026-11-04,2200.00
+INV-1031,Brightwater Logistics Co.,2026-10-06,2026-11-05,5120.00
+INV-1032,Quarry Lane Builders Inc.,2026-10-07,2026-11-06,6300.00
+INV-1033,Juniper & Vale Interiors,2026-10-09,2026-11-08,1340.00
+INV-1034,Sunline Cycles LLC,2026-10-10,2026-11-09,455.50
+INV-1035,Northwind Botanicals Inc.,2026-10-12,2026-11-11,3600.00
+INV-1036,Pinecrest Bakery LLC,2026-10-20,2026-11-19,1500.00
+INV-1037,Fernhill Design Studio,2026-10-22,2026-11-21,2400.00
+INV-1038,Saltmarsh Analytics Ltd,2026-10-25,2026-11-24,1100.00
+INV-1039,Tidewell Marine Supply,2026-10-27,2026-11-26,980.00
+INV-1040,Northwind Botanicals Inc.,2026-10-28,2026-11-27,2050.00
+INV-1038,Saltmarsh Analytics Ltd,2026-10-25,2026-11-24,1100.00
